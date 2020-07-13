@@ -1,0 +1,20 @@
+{
+  "name": "async-context-continuation",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": ">=8"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "run:example": " node example/a.js"
+  },
+  "keywords": [],
+  "author": "jiye zhang",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "prettier": "^2.0.5"
+  }
+}
